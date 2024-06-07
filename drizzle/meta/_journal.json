@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1716104719645,
+      "tag": "0000_youthful_unus",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1716105644789,
+      "tag": "0001_light_vargas",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1717596767952,
+      "tag": "0002_windy_sleepwalker",
+      "breakpoints": true
+    }
+  ]
+}
